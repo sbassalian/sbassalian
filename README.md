@@ -19,7 +19,17 @@
 
 <h3>Personal Medium Posts</h3>
 <ul>
-  <li><a href="https://medium.com/@dev.solbass/leetcode-167-two-sum-ii-input-array-is-sorted-python-d10f9906c32d"><b>LeetCode #167 | Two Sum II — Input Array Is Sorted (Python)</b></a></li>
+  <li>
+    <a href="https://medium.com/@dev.solbass/leetcode-167-two-sum-ii-input-array-is-sorted-python-d10f9906c32d">
+      <b>LeetCode #167 | Two Sum II — Input Array Is Sorted (Python)</b>
+    </a>
+  </li>
+  
+  <li>
+    <a href="https://medium.com/@dev.solbass/leetcode-1332-remove-palindromic-subsequences-b4989640f43f">
+      <b>LeetCode #1332 | Remove Palindromic Subsequences (Python)</b>
+    </a>
+  </li>
 </ul>
 
 <h3>Where to find me</h3>
