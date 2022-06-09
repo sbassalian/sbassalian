@@ -40,4 +40,4 @@
   <a href="https://github.com/sbassalian" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
-![Solomons's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkey11&count_private=true&show_icons=true&theme=dracula)
+![Solomons's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbassalian&count_private=true&show_icons=true&theme=dracula)
