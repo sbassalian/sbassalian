@@ -44,4 +44,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbassalian&layout=compact)](https://github.com/sbassalian/github-readme-stats)
 
-[![Solomons's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbassalian)](https://github.com/sbassalian/github-readme-stats)
+[![Solomons's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbassalian)](https://github.com/anuraghazra/github-readme-stats)
