@@ -3,7 +3,8 @@
 
 <p>I'm Solomon, Fullstack developer from <b>New York City.</b> Always creating, always learning, always having fun!</p>
 <h3>📚 Frameworks, Platforms and Libraries</h3>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <p>
   <br>
